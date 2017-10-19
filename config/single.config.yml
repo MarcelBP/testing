@@ -9,3 +9,9 @@ common_caps:
 browser_caps:
   -
     "browser": "chrome"
+  -
+    "browser": "firefox"
+  -
+    "browser": "internet explorer"
+  -
+    "browser": "safari"
