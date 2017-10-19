@@ -9,4 +9,9 @@ common_caps:
 browser_caps:
   -
     "browser": "chrome"
-    "browserstack.local": true
+  -
+    "browser": "firefox"
+  -
+    "browser": "internet explorer"
+  -
+    "browser": "safari"
